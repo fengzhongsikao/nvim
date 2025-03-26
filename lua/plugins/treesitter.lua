@@ -17,6 +17,8 @@ return {
       "vim",
       "yaml",
       "dart",
+      "vue",
     },
   },
 }
+
