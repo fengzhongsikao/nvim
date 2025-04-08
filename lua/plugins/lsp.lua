@@ -12,6 +12,7 @@ return {
   },
   opts = {
     servers = {
+      pyright = {},
       volar = {
         init_options = {
           vue = {
