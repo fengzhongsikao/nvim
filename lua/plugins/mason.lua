@@ -7,7 +7,9 @@ return {
       "shfmt",
       "flake8",
       "vue-language-server",
+      "vtsls",
+      "goimports",
+      "gofumpt",
     },
   },
 }
-

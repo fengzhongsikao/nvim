@@ -18,7 +18,10 @@ return {
       "yaml",
       "dart",
       "vue",
+      "go",
+      "gomod",
+      "gowork",
+      "gosum",
     },
   },
 }
-
