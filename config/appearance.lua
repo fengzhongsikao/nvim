@@ -11,7 +11,7 @@ return function(wezterm, config)
 	config.font_size = 12
 	config.color_scheme = 'Catppuccin Mocha'
 	config.font = wezterm.font('JetBrains Mono', { weight = 'Bold', italic = true })
-	config.default_prog = { 'C:\\Program Files\\PowerShell\\7\\pwsh.exe' }
+	config.default_prog = { 'C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe' }
 
 	-- 标签栏与窗口边缘的空隙
 	config.window_padding = {
