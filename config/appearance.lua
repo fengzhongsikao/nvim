@@ -9,9 +9,9 @@ return function(wezterm, config)
 	config.tab_max_width = 25
 	config.hide_tab_bar_if_only_one_tab = false
 	config.font_size = 12
-	config.color_scheme = 'Catppuccin Mocha'
-	config.font = wezterm.font('JetBrains Mono', { weight = 'Bold', italic = true })
-	config.default_prog = { 'C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe' }
+	config.color_scheme = "Catppuccin Mocha"
+	config.font = wezterm.font("JetBrains Mono", { weight = "Bold", italic = true })
+	config.default_prog = { "C:\\Users\\five\\AppData\\Local\\Programs\\nu\\bin\\nu.exe" }
 
 	-- 标签栏与窗口边缘的空隙
 	config.window_padding = {
